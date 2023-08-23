@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 I am a person who is passionate about the design and development of desktop applications.
 and pages or websites, with a high degree of commitment and dedication to the solution
 of problems in order to meet the objectives and satisfy the needs of my
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 👯 I am looking to collaborate in new projects or in the improvement of existing projects.
 - 📫 How to contact me?. Through my email polmn98@gmail.
 
--->
+
